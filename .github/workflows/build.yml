@@ -69,3 +69,4 @@ jobs:
         with:
           name: ${{ matrix.arch}}-logs
           path: logs/
+          
